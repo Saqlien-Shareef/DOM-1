@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#one {
+    padding: 50px;
+    color: rgb(0, 204, 255);
+}
+.two {
+    padding: 50px;
+    color: rgb(208, 26, 26);
+}
+h3 {
+    padding: 50px;
+    color: blueviolet;
+}
+#three {
+     padding: 50px;
+     
+}
+.twoo {
+    padding: 50px;
+    color: rgba(199, 3, 91, 0.735);
+}
